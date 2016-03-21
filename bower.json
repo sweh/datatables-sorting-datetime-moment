@@ -1,0 +1,10 @@
+{
+  "name": "datatables-sorting-datetime-moment",
+  "version": "0.0.1",
+  "main": "js/datetime-moment.js",
+  "description": "Plugin for Datatables Moment.js Compatibility",
+  "dependencies": {
+    "datatables": ">= 1.9.4",
+    "moment": ">= 1.9.4"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "datatables-sorting-datetime-moment",
+  "version": "0.0.1",
+  "main": "js/datetime-moment.js",
+  "description": "Plugin for Datatables Moment.js Compatibility",
+  "dependencies": {
+    "datatables": ">= 1.9.4",
+    "moment": ">= 1.9.4"
+  },
+  "homepage": "https://github.com/andremleblanc/datatables-sorting-datetime-moment",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "ac90ee8ccff359dd95ee23ae00d1c4cdb8859c50"
+  },
+  "_source": "git://github.com/andremleblanc/datatables-sorting-datetime-moment.git",
+  "_target": "0.0.1",
+  "_originalSource": "datatables-sorting-datetime-moment"
+}
